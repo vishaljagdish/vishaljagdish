@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishaljagdish
 - 👀 I’m interested in embedded systems, electrical engineering, machine learning
-- 🌱 I’m currently learning python for ML, embedded programming in C
+- 🌱 I’m currently learning python for ML, embedded programming in C, ROS2
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vishaljagdish85@gmail.com 
 - 😄 Pronouns: ...
